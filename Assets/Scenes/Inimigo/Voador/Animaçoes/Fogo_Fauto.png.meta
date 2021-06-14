@@ -1,0 +1,1736 @@
+fileFormatVersion: 2
+guid: af0e47fd7ad72954b815b742300c7954
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7170827186472498758
+    second: Fogo_Fauto_0
+  - first:
+      213: 7426447908079267518
+    second: Fogo_Fauto_1
+  - first:
+      213: 3122793972231784376
+    second: Fogo_Fauto_2
+  - first:
+      213: -192452403372667923
+    second: Fogo_Fauto_3
+  - first:
+      213: 6606204694344340304
+    second: Fogo_Fauto_4
+  - first:
+      213: 4605270715188876794
+    second: Fogo_Fauto_5
+  - first:
+      213: -6226193068147650572
+    second: Fogo_Fauto_6
+  - first:
+      213: -8821843712911326673
+    second: Fogo_Fauto_7
+  - first:
+      213: -3951994716397688706
+    second: Fogo_Fauto_8
+  - first:
+      213: -3502380878041252643
+    second: Fogo_Fauto_9
+  - first:
+      213: 6843203360906510232
+    second: Fogo_Fauto_10
+  - first:
+      213: -2031628714352293652
+    second: Fogo_Fauto_11
+  - first:
+      213: 3698168111676618576
+    second: Fogo_Fauto_12
+  - first:
+      213: 7485318700919658651
+    second: Fogo_Fauto_13
+  - first:
+      213: -1637998173307013457
+    second: Fogo_Fauto_14
+  - first:
+      213: 5538292564627484007
+    second: Fogo_Fauto_15
+  - first:
+      213: -7474053902101849411
+    second: Fogo_Fauto_16
+  - first:
+      213: -3745601494512392887
+    second: Fogo_Fauto_17
+  - first:
+      213: 750460479165021031
+    second: Fogo_Fauto_18
+  - first:
+      213: 8589878897023731618
+    second: Fogo_Fauto_19
+  - first:
+      213: 2180835109489218898
+    second: Fogo_Fauto_20
+  - first:
+      213: -6647965696095544684
+    second: Fogo_Fauto_21
+  - first:
+      213: 282633110619442721
+    second: Fogo_Fauto_22
+  - first:
+      213: 4628257662242597989
+    second: Fogo_Fauto_23
+  - first:
+      213: 836406445423531006
+    second: Fogo_Fauto_24
+  - first:
+      213: -173634471737452036
+    second: Fogo_Fauto_25
+  - first:
+      213: 7936568877100695541
+    second: Fogo_Fauto_26
+  - first:
+      213: 7958738852818634695
+    second: Fogo_Fauto_27
+  - first:
+      213: 5282147014225723271
+    second: Fogo_Fauto_28
+  - first:
+      213: -3586004423226986738
+    second: Fogo_Fauto_29
+  - first:
+      213: 6484248916991795903
+    second: Fogo_Fauto_30
+  - first:
+      213: 322058699142357839
+    second: Fogo_Fauto_31
+  - first:
+      213: 857591043700518125
+    second: Fogo_Fauto_32
+  - first:
+      213: -3270809480164402631
+    second: Fogo_Fauto_33
+  - first:
+      213: -6314928753275370717
+    second: Fogo_Fauto_34
+  - first:
+      213: -1577547616526203931
+    second: Fogo_Fauto_35
+  - first:
+      213: 6098576342666094693
+    second: Fogo_Fauto_36
+  - first:
+      213: -7421206069559910184
+    second: Fogo_Fauto_37
+  - first:
+      213: -3502051140309617128
+    second: Fogo_Fauto_38
+  - first:
+      213: -7728552814414292142
+    second: Fogo_Fauto_39
+  - first:
+      213: 8584228552987538863
+    second: Fogo_Fauto_40
+  - first:
+      213: -3471331111760251198
+    second: Fogo_Fauto_41
+  - first:
+      213: -6541212679524177369
+    second: Fogo_Fauto_42
+  - first:
+      213: -3704408607882675412
+    second: Fogo_Fauto_43
+  - first:
+      213: -6188106267907398123
+    second: Fogo_Fauto_44
+  - first:
+      213: -7591057784155127027
+    second: Fogo_Fauto_45
+  - first:
+      213: 3976784864482487688
+    second: Fogo_Fauto_46
+  - first:
+      213: -2558133044759982106
+    second: Fogo_Fauto_47
+  - first:
+      213: -3163010349415715618
+    second: Fogo_Fauto_48
+  - first:
+      213: 163430224606118527
+    second: Fogo_Fauto_49
+  - first:
+      213: 6348917474922224542
+    second: Fogo_Fauto_50
+  - first:
+      213: -7478245572069007253
+    second: Fogo_Fauto_51
+  - first:
+      213: -2445115459825427673
+    second: Fogo_Fauto_52
+  - first:
+      213: -7983796776244302049
+    second: Fogo_Fauto_53
+  - first:
+      213: 8405399986505471997
+    second: Fogo_Fauto_54
+  - first:
+      213: 3351359221875765185
+    second: Fogo_Fauto_55
+  - first:
+      213: -7787682117891136706
+    second: Fogo_Fauto_56
+  - first:
+      213: -7070557364270577334
+    second: Fogo_Fauto_57
+  - first:
+      213: 6544426836137461969
+    second: Fogo_Fauto_58
+  - first:
+      213: -2975489524233478033
+    second: Fogo_Fauto_59
+  - first:
+      213: -2145717228690565886
+    second: Fogo_Fauto_60
+  - first:
+      213: 4393774949154778184
+    second: Fogo_Fauto_61
+  - first:
+      213: 6053432767155391610
+    second: Fogo_Fauto_62
+  - first:
+      213: 3928671515777933673
+    second: Fogo_Fauto_63
+  - first:
+      213: 5365068017243217749
+    second: Fogo_Fauto_64
+  - first:
+      213: 7151381255134149061
+    second: Fogo_Fauto_65
+  - first:
+      213: -6851694402582618708
+    second: Fogo_Fauto_66
+  - first:
+      213: 1161861854399592448
+    second: Fogo_Fauto_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fogo_Fauto_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 100
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c794aaaa1c7c90800000000000000
+      internalID: -7170827186472498758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 117
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee100860b001760800000000000000
+      internalID: 7426447908079267518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 109
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b74b9d8294665b20800000000000000
+      internalID: 3122793972231784376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 107
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb4dcc0f85445df0800000000000000
+      internalID: -192452403372667923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 107
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05399e71b24fdab50800000000000000
+      internalID: 6606204694344340304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 105
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59751d05539ef30800000000000000
+      internalID: 4605270715188876794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 111
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff4f0e646e1899a0800000000000000
+      internalID: -6226193068147650572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2248eb12e3829580800000000000000
+      internalID: -8821843712911326673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 107
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7825e67eb1b729c0800000000000000
+      internalID: -3951994716397688706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcfa38d52b056fc0800000000000000
+      internalID: -3502380878041252643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 100
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f779c2331f7fe50800000000000000
+      internalID: 6843203360906510232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 98
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84c85c2743ec3e0800000000000000
+      internalID: -2031628714352293652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 104
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577928cd48825330800000000000000
+      internalID: 3698168111676618576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9897e613b131e760800000000000000
+      internalID: 7485318700919658651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 97
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6fb410759a449e0800000000000000
+      internalID: -1637998173307013457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 99
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76deec09eb7fbdc40800000000000000
+      internalID: 5538292564627484007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 96
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad8154393d64890800000000000000
+      internalID: -7474053902101849411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 93
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945aa692943f40cc0800000000000000
+      internalID: -3745601494512392887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 87
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb99664db2a6a00800000000000000
+      internalID: 750460479165021031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 42
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a749b08851653770800000000000000
+      internalID: 8589878897023731618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 98
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2551ece3af1e34e10800000000000000
+      internalID: 2180835109489218898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 93
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a1e3dfb6eadb3a0800000000000000
+      internalID: -6647965696095544684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 42
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e4c30115d1ce300800000000000000
+      internalID: 282633110619442721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 92
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c23fe72dfda3040800000000000000
+      internalID: 4628257662242597989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_24
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 42
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3115b0b338b9b00800000000000000
+      internalID: 836406445423531006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_25
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 92
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9935f2e50279df0800000000000000
+      internalID: -173634471737452036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_26
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 90
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff10f085b542e60800000000000000
+      internalID: 7936568877100695541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 82
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7ca56c1de137e60800000000000000
+      internalID: 7958738852818634695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 85
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f705239b4fd4940800000000000000
+      internalID: 5282147014225723271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 75
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f639ef9f3fb3ec0800000000000000
+      internalID: -3586004423226986738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 86
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2e184f80eacf950800000000000000
+      internalID: 6484248916991795903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_31
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 78
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4364373eae287400800000000000000
+      internalID: 322058699142357839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 92
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec6352b286c6eb00800000000000000
+      internalID: 857591043700518125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 92
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a12d67b10cb92d0800000000000000
+      internalID: -3270809480164402631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3230f1fb1cddc58a0800000000000000
+      internalID: -6314928753275370717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 82
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e301bc0dcc6b1ae0800000000000000
+      internalID: -1577547616526203931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 85
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a63c3fde72a450800000000000000
+      internalID: 6098576342666094693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_37
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 77
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0a8e22664920990800000000000000
+      internalID: -7421206069559910184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_38
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 87
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816f794ea07366fc0800000000000000
+      internalID: -3502051140309617128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_39
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 80
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b9df4b92aaeb490800000000000000
+      internalID: -7728552814414292142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_40
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 80
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa57693436e412770800000000000000
+      internalID: 8584228552987538863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 74
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b4c9eeba53dfc0800000000000000
+      internalID: -3471331111760251198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 64
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2eac89b1f835a0800000000000000
+      internalID: -6541212679524177369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 69
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf0487ffb479cc0800000000000000
+      internalID: -3704408607882675412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 76
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e205a22e6f1aa0800000000000000
+      internalID: -6188106267907398123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 72
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0348f91a2527a690800000000000000
+      internalID: -7591057784155127027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 78
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de0aba3c0603730800000000000000
+      internalID: 3976784864482487688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_47
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 71
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef84e2ac8faf7cd0800000000000000
+      internalID: -2558133044759982106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 78
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc213678daba14d0800000000000000
+      internalID: -3163010349415715618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_49
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 73
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c5336cee944200800000000000000
+      internalID: 163430224606118527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_50
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 74
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b52013ec2eb1850800000000000000
+      internalID: 6348917474922224542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_51
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 68
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6060bd064fe73890800000000000000
+      internalID: -7478245572069007253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_52
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 54
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b1a4ea174311ed0800000000000000
+      internalID: -2445115459825427673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_53
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 58
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fac09c12bd33190800000000000000
+      internalID: -7983796776244302049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_54
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 72
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df75bb601caf5a470800000000000000
+      internalID: 8405399986505471997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_55
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 67
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf62aeb47b628e20800000000000000
+      internalID: 3351359221875765185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_56
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 71
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33ef6bef589ce390800000000000000
+      internalID: -7787682117891136706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_57
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 69
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4941a2e98550ed90800000000000000
+      internalID: -7070557364270577334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 67
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8c18a988972da50800000000000000
+      internalID: 6544426836137461969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_59
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 63
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ea23ea00f4b6d0800000000000000
+      internalID: -2975489524233478033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_60
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 63
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205967b8c81e832e0800000000000000
+      internalID: -2145717228690565886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 57
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c616b7903d9fc30800000000000000
+      internalID: 4393774949154778184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_62
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 66
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cc10e770d120450800000000000000
+      internalID: 6053432767155391610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_63
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 63
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a329bde1758630800000000000000
+      internalID: 3928671515777933673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_64
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 56
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f5793bfec847a40800000000000000
+      internalID: 5365068017243217749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_65
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 61
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c978a5ac5fce3360800000000000000
+      internalID: 7151381255134149061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_66
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 53
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadd7802e34e9e0a0800000000000000
+      internalID: -6851694402582618708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fogo_Fauto_67
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 23
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00870956333cf1010800000000000000
+      internalID: 1161861854399592448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

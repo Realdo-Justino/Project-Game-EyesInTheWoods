@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 57008cddfbd167b44a2f44d151a33a20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -509939116554856288
+    second: "Ch\xE3o_com_Gramas_0"
+  - first:
+      213: -5096647148169888189
+    second: "Ch\xE3o_com_Gramas_1"
+  - first:
+      213: -3390921952770228964
+    second: "Ch\xE3o_com_Gramas_2"
+  - first:
+      213: -4746648030682675695
+    second: "Ch\xE3o_com_Gramas_3"
+  - first:
+      213: 1795951741054951770
+    second: "Ch\xE3o_com_Gramas_4"
+  - first:
+      213: 7874803998225664841
+    second: "Ch\xE3o_com_Gramas_5"
+  - first:
+      213: 7311633283729512507
+    second: "Ch\xE3o_com_Gramas_6"
+  - first:
+      213: -4063624521170690327
+    second: "Ch\xE3o_com_Gramas_7"
+  - first:
+      213: -812014309317021292
+    second: "Ch\xE3o_com_Gramas_8"
+  - first:
+      213: 5711027690572743207
+    second: "Ch\xE3o_com_Gramas_9"
+  - first:
+      213: 2601894430380150168
+    second: "Ch\xE3o_com_Gramas_10"
+  - first:
+      213: -4828497119770562265
+    second: "Ch\xE3o_com_Gramas_11"
+  - first:
+      213: 3833539821484932664
+    second: "Ch\xE3o_com_Gramas_12"
+  - first:
+      213: -8978151366384112292
+    second: "Ch\xE3o_com_Gramas_13"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 824
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8dba443155ce8f0800000000000000
+      internalID: -509939116554856288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_1"
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 156
+        width: 416
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e73d30c621549b0800000000000000
+      internalID: -5096647148169888189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_2"
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 156
+        width: 825
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d7e08237601f0d0800000000000000
+      internalID: -3390921952770228964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_3"
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 190
+        width: 253
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1160a51d3c4802eb0800000000000000
+      internalID: -4746648030682675695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_4"
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 190
+        width: 153
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a512357d7908ce810800000000000000
+      internalID: 1795951741054951770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_5"
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 7
+        width: 305
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b011e838ce84d60800000000000000
+      internalID: 7874803998225664841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_6"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 10
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38de9c9bb3287560800000000000000
+      internalID: 7311633283729512507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_7"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 7
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eedd0b270b1b97c0800000000000000
+      internalID: -4063624521170690327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_8"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 21
+        width: 319
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ff94b9452bb4f0800000000000000
+      internalID: -812014309317021292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_9"
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 26
+        width: 165
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722020f1d65a14f40800000000000000
+      internalID: 5711027690572743207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_10"
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 13
+        width: 337
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d40e1f239cb1420800000000000000
+      internalID: 2601894430380150168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_11"
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 12
+        width: 272
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213419b37bbdfcb0800000000000000
+      internalID: -4828497119770562265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_12"
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 12
+        width: 152
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7ceb1828733530800000000000000
+      internalID: 3833539821484932664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ch\xE3o_com_Gramas_13"
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 39
+        width: 499
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dacfa86e2376380800000000000000
+      internalID: -8978151366384112292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

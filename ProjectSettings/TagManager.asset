@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Projeteis
+  - Blast Zone
+  - Background
+  - Boss
+  - Map
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Background
+  - Death
+  - Enemy1
+  - Blast Zones
+  - Hitbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fundo
+    uniqueID: 849147643
+    locked: 0
+  - name: Fundo_Joel
+    uniqueID: 823330847
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
