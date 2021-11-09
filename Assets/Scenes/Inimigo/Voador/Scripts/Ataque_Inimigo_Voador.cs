@@ -13,6 +13,8 @@ public class Ataque_Inimigo_Voador : MonoBehaviour
 
     [SerializeField]
     bool limite;
+    [SerializeField]
+    public bool limite2;
     Vector3 movimento=new Vector3(0,0,0);
     void Start()
     {
@@ -32,9 +34,19 @@ public class Ataque_Inimigo_Voador : MonoBehaviour
     }
     void Lado(){
         if(limite==false){
-            movimento= new Vector3(1,-1,0);
+            if(limite2==false){
+                movimento= new Vector3(1,-1,0);
+            }
+            else{
+                movimento= new Vector3(-1,-1,0);
+            }
         }else{
-            movimento= new Vector3(1,1,0);
+             if(limite2==false){
+                movimento= new Vector3(1,1,0);
+            }
+            else{
+                movimento= new Vector3(-1,1,0);
+            }
         }
     }
     void PosicaoAtual(){

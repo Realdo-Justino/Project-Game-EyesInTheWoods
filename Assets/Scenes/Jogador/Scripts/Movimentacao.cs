@@ -5,7 +5,7 @@ using UnityEngine;
 public class Movimentacao : MonoBehaviour
 {
     // Start is called before the first frame update
-    private float velocidadePersonagem=15;
+    public float velocidadePersonagem=15;
     public float forcaPulo=16;
 
     //Criação de uma variavel que permite aplicação de forças fisicas
@@ -20,8 +20,15 @@ public class Movimentacao : MonoBehaviour
     public bool inicio;
 
     public bool paralisado=false;
+    public bool paralisado2=false;
     public float contador_stun;
     public Animator anim;
+
+    [SerializeField] DialogUI dialogUI;
+
+    public DialogUI DialogUI =>dialogUI;
+
+    public IInteractable Interactable{get;set;}
     
 
     void Start()
@@ -33,8 +40,9 @@ public class Movimentacao : MonoBehaviour
     // Update is called once per frame
     void Update()
     { 
+        if(dialogUI.IsOpen) return;
         //Se o botão de inicio foi prescionado, os inputs são registrados
-        if(paralisado==false){
+        if((paralisado==false)&&(paralisado2==false)){
             Move();
             Pulo();
         }
@@ -43,6 +51,11 @@ public class Movimentacao : MonoBehaviour
             if(contador_stun>=200){
                 paralisado=false;
                 contador_stun=0;
+            }
+        }
+        if(Input.GetKeyDown(KeyCode.E)){
+            if(Interactable!=null){
+                Interactable.Interact(this);
             }
         }
     }

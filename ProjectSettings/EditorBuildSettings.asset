@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mapas/Mapa_Teste_2.unity
+    guid: 2c460c7bdb51e4a42a3caf4953b02932
+  - enabled: 1
+    path: Assets/Scenes/Mapas/Mapa_Teste.unity
+    guid: f2e0f0a6c10d6114882d2d0cc1e8a371
+  - enabled: 1
+    path: Assets/Scenes/Bosses/Boss1/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Mapas/Mapa_Teste_Inimigo.unity
+    guid: e7786abcfad1511419bb85c9e7cc6fa3
+  - enabled: 1
+    path: Assets/Scenes/Bosses/Boss2/Scenes/Mapa de Luta.unity
+    guid: 8a1f819b7107340419fa33512d27d428
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutsceneBossCabriola/CutsceneBoss.unity
+    guid: 5a8bdde9c2d58ec42a00b47951a816a7
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Teste_cutscene/0.2/Tests_cutscene_scene/Teste_cutscene1.unity
+    guid: 2517f5ca2d1241b4995fbbc6d21f49e6
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase2/Fase02.unity
+    guid: d09d7f787330e4648bfac062bade1ddc
+  - enabled: 1
+    path: Assets/Scenes/Bosses/Boss3/Boss3.unity
+    guid: 138314e06d5bb9b41b962863b7a29a0c
   m_configObjects: {}

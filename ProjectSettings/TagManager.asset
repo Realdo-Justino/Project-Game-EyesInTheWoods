@@ -10,6 +10,11 @@ TagManager:
   - Background
   - Boss
   - Map
+  - Top
+  - Acctivate
+  - Rock
+  - Platforms
+  - ProjeteisFortes
   layers:
   - Default
   - TransparentFX
@@ -25,7 +30,7 @@ TagManager:
   - Enemy1
   - Blast Zones
   - Hitbox
-  - 
+  - Map
   - 
   - 
   - 

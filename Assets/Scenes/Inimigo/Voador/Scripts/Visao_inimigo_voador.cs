@@ -24,13 +24,15 @@ public class Visao_inimigo_voador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float distanciaPlayer=Vector2.Distance(inimigo.position,player.position);
-        if(transform.position.x<=player.position.x){
-            estado=true;
+        if(player!=null){
+            float distanciaPlayer=Vector2.Distance(inimigo.position,player.position);
+            if(transform.position.x<=player.position.x){
+                estado=true;
+            }
+            else{
+                estado=false;
+            }
+            Padrao_Inimigo_Voador.visao_inimigo_voador=estado;
         }
-        else{
-            estado=false;
-        }
-        Padrao_Inimigo_Voador.visao_inimigo_voador=estado;
     }
 }

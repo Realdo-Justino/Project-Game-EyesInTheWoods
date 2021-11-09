@@ -1,13 +1,41 @@
 sceneSetups:
-- path: Assets/Scenes/Joel.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/Boss1/Boss1.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
 - path: Assets/Scenes/Mapas/Mapa_Teste.unity
   isLoaded: 0
   isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Mapas/Mapa_Teste_2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Bosses/Boss1/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Mapas/Mapa_Teste_Inimigo.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Bosses/Boss2/Scenes/Mapa de Luta.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Cutscenes/CutsceneBossCabriola/CutsceneBoss.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Cutscenes/Teste_cutscene/0.2/Tests_cutscene_scene/Teste_cutscene1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Fases/Fase2/Fase02.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Bosses/Boss3/Boss3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Cutscenes/Cutscene2/Cutscene.unity
+  isLoaded: 1
+  isActive: 1
   isSubScene: 0

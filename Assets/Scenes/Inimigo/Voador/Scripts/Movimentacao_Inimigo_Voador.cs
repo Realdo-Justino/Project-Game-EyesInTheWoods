@@ -15,6 +15,9 @@ public class Movimentacao_Inimigo_Voador : MonoBehaviour
     [SerializeField]
     float Contador;
     Vector3 movimento=new Vector3(0,0,0);
+
+    [SerializeField]
+    Ataque_Inimigo_Voador Ataque_Inimigo_Voador;
     void Start()
     {
         Debug.Log("Calmo");
@@ -35,14 +38,16 @@ public class Movimentacao_Inimigo_Voador : MonoBehaviour
         if(limite==false){
             movimento= new Vector3(1,0,0);
             transform.eulerAngles=new Vector2(0f,180f);
+            Ataque_Inimigo_Voador.limite2=true;
         }else{
             movimento= new Vector3(-1,0,0);
             transform.eulerAngles=new Vector2(0f,0f);
+            Ataque_Inimigo_Voador.limite2=false;
         }
     }
     void PosicaoAtual(){
         Contador+=Time.deltaTime;
-        if(Contador>=5){
+        if(Contador>=4){
             switch(limite){
                 case false:
                     limite=true;
@@ -55,5 +60,11 @@ public class Movimentacao_Inimigo_Voador : MonoBehaviour
             }
         }
         Lado();
+    }
+    private void OnTriggerEnter2D(Collider2D colisor) {
+        if(colisor.gameObject.CompareTag("Player")){
+            colisor.gameObject.GetComponent<Vida_personagem_principal>().receberDano(1);
+        }
+        
     }
 }

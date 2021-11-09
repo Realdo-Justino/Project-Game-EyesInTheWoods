@@ -24,6 +24,7 @@ public class Padrao_Inimigo_Voador : MonoBehaviour
     void Update()
     {
         EstadoAtaque();
+        EstadoCalmo();
     }
 
     void EstadoAtaque(){
