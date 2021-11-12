@@ -7,6 +7,7 @@ public class SpawMagic4 : MonoBehaviour
     // Start is called before the first frame update
     public GameObject bulletPrefab;
     public Transform Firepoint;
+    public Transform Firepoint2;
     [SerializeField]PaternProjectiles PaternProjectiles;
     public int contador;
     void Start()
@@ -22,9 +23,12 @@ public class SpawMagic4 : MonoBehaviour
     public void SpawnAtk(){
         contador=0;
         Instantiate(bulletPrefab,Firepoint.position,Firepoint.rotation);
-        for(int i = 0; i < 5;i++){
-            Vector3 Pocisao=new Vector3(Firepoint.position.x+(i*10),Firepoint.position.y,Firepoint.position.z);
+        Instantiate(bulletPrefab,Firepoint2.position,Firepoint.rotation);
+        for(int i = 0; i < 6;i++){
+            Vector3 Pocisao=new Vector3(Firepoint.position.x,Firepoint.position.y+(i*5),Firepoint.position.z);
             Instantiate(bulletPrefab,Pocisao,Firepoint.rotation);
+            Vector3 Pocisao2=new Vector3(Firepoint2.position.x,Firepoint2.position.y+(i*5),Firepoint2.position.z);
+            Instantiate(bulletPrefab,Pocisao2,Firepoint.rotation);
             contador++;
         }
         StartCoroutine(Waiting());

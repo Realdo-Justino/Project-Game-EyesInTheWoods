@@ -138,6 +138,8 @@ MonoBehaviour:
     type: 3}
   Firepoint: {fileID: 4279685823468062768, guid: 9620970f06f9c5f4195fb2a23d9a4a60,
     type: 3}
+  Firepoint2: {fileID: 8148969565154457407, guid: fa1bb9befed191647a34e6a091fd96e2,
+    type: 3}
   PaternProjectiles: {fileID: -3611646395038539321}
   contador: 5
 --- !u!114 &-3173397205063410348
@@ -155,6 +157,8 @@ MonoBehaviour:
   bulletPrefab: {fileID: 7875452651349815566, guid: 5612ea0c3ac479746b8fabe938122471,
     type: 3}
   Firepoint: {fileID: 574416426076150004, guid: b71ed8615b5f06146929a9e8adf0bac1,
+    type: 3}
+  Firepoint2: {fileID: 7412950981812135754, guid: eadd60873c7eca64188c39b0781f5bbe,
     type: 3}
   PaternProjectiles: {fileID: -3611646395038539321}
 --- !u!114 &8985900570717087792
@@ -204,7 +208,6 @@ MonoBehaviour:
   Magic5: {fileID: 3235693135679079529}
   CountClones: {fileID: 8985900570717087792}
   AnimacacaoBoss: {fileID: 4499468552009734516}
-  InvoqueParticle: {fileID: 0}
   Doing: 0
 --- !u!114 &4499468552009734516
 MonoBehaviour:

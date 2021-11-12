@@ -7,6 +7,7 @@ public class SpawnMagic3 : MonoBehaviour
     // Start is called before the first frame update
     public GameObject bulletPrefab;
     public Transform Firepoint;
+    public Transform Firepoint2;
 
     [SerializeField]PaternProjectiles PaternProjectiles;
     void Start()
@@ -21,8 +22,11 @@ public class SpawnMagic3 : MonoBehaviour
     }
     public void SpawnAtk(){
         Instantiate(bulletPrefab,Firepoint.position,Firepoint.rotation);
-        Vector3 Pocisao=new Vector3(Firepoint.position.x+10,Firepoint.position.y,Firepoint.position.z);
+        Instantiate(bulletPrefab,Firepoint2.position,Firepoint.rotation);
+        Vector3 Pocisao=new Vector3(Firepoint2.position.x+10,Firepoint2.position.y,Firepoint2.position.z);
+        Vector3 Pocisao2=new Vector3(Firepoint2.position.x+20,Firepoint2.position.y,Firepoint2.position.z);
         Instantiate(bulletPrefab,Pocisao,Firepoint.rotation);
+        Instantiate(bulletPrefab,Pocisao2,Firepoint.rotation);
         StartCoroutine(Waiting());
     }
     IEnumerator Waiting(){
