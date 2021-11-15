@@ -126,7 +126,6 @@ ScriptsOnlyBuild:
     - TMPro.TextMeshProUGUI
     Unity.Timeline.Editor.dll:
     - UnityEditor.Timeline.SequenceHierarchy
-    - UnityEditor.Timeline.TimelineAssetViewModel
     - UnityEditor.Timeline.TimelineWindow
     Unity.Timeline.dll:
     - UnityEngine.Timeline.ActivationPlayableAsset
@@ -136,6 +135,12 @@ ScriptsOnlyBuild:
     - UnityEngine.Timeline.GroupTrack
     - UnityEngine.Timeline.MarkerTrack
     - UnityEngine.Timeline.TimelineAsset
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -1037,6 +1042,71 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 1839735485
       Script: {instanceID: 0}
+    Assets/Scenes/Cutscenes/Start/Begining.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11296}
+    - Class: 114
+      Script: {instanceID: 11570}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11702}
+    - Class: 114
+      Script: {instanceID: 12784}
+    - Class: 114
+      Script: {instanceID: 13672}
+    - Class: 114
+      Script: {instanceID: 13696}
+    - Class: 114
+      Script: {instanceID: 13808}
+    - Class: 114
+      Script: {instanceID: 14056}
+    - Class: 114
+      Script: {instanceID: 14180}
+    - Class: 114
+      Script: {instanceID: 14456}
+    - Class: 114
+      Script: {instanceID: 14598}
+    - Class: 114
+      Script: {instanceID: 14838}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 320
+      Script: {instanceID: 0}
     Assets/Scenes/Cutscenes/Teste_cutscene/0.2/Tests_cutscene_scene/Teste_cutscene1.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -1751,7 +1821,7 @@ ScriptsOnlyBuild:
     className: Magic3
   - hash:
       serializedVersion: 2
-      Hash: e411120c54dd144dfcbc3698f4f48c2b
+      Hash: 85e1a2b1e506104c43437d68509ab9e6
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: SpawnMagic3
@@ -3023,7 +3093,7 @@ ScriptsOnlyBuild:
     className: CinemachineBrain
   - hash:
       serializedVersion: 2
-      Hash: 825031399b55814a2a551d5b63b40d4f
+      Hash: c76b9cadb944534b198f6c6126f9f89f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: SpawMagic4
@@ -3159,6 +3229,7 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Fases/Fase2/Fase02.unity
   - Assets/Scenes/Bosses/Boss3/Boss3.unity
   - Assets/Scenes/Cutscenes/Cutscene2/Cutscene.unity
+  - Assets/Scenes/Cutscenes/Start/Begining.unity
   playerPath: "C:/Users/Realdo/OneDrive - SATC - Associa\xE7\xE3o Beneficente da
     Ind\xFAstria Carbon\xEDfera de Santa Catarina/Desktop/2021/Projeto_Jogo/Betas/Jogo
-    Beta1.97/Projeto-Jogo-0.1.exe"
+    Beta1.98/Projeto-Jogo-0.1.exe"

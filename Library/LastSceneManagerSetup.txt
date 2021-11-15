@@ -32,8 +32,8 @@ sceneSetups:
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Bosses/Boss3/Boss3.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Cutscenes/Cutscene2/Cutscene.unity
   isLoaded: 0
@@ -42,4 +42,8 @@ sceneSetups:
 - path: Assets/Scenes/Cutscenes/Start/Begining.unity
   isLoaded: 0
   isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Fases/Fase3/Fase03.unity
+  isLoaded: 1
+  isActive: 1
   isSubScene: 0
