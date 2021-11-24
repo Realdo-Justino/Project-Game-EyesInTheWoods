@@ -17,6 +17,6 @@ public class Titulo : MonoBehaviour
         yield return new WaitForSeconds(1);
         Fade_out.SetActive(true);
         yield return new WaitForSeconds(1);
-        SceneManager.LoadScene("Mapa_Teste");
+        SceneManager.LoadScene("Begining");
     }
 }

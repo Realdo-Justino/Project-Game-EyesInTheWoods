@@ -16,7 +16,7 @@ public class bala : MonoBehaviour
         rb.velocity=transform.right*velocidade;
     }
     private void OnTriggerEnter2D(Collider2D colisor) {
-        if(colisor.gameObject.tag!="Map"){
+        if((colisor.gameObject.tag!="Map")){
              Destroy(GameObject.FindWithTag("Projeteis"));
              Destroy(GameObject.FindWithTag("ProjeteisFortes"));
         }

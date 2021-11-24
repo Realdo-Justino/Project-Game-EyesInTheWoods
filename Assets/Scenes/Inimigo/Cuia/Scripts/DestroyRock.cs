@@ -19,7 +19,7 @@ public class DestroyRock : MonoBehaviour
     
     
     private void OnTriggerEnter2D(Collider2D colisor) {
-        if((colisor.gameObject.tag=="Blast Zone")||(colisor.gameObject.tag=="Player")){
+        if((colisor.gameObject.tag=="Platforms")||(colisor.gameObject.tag=="Player")){
              Destroy(Rock);
         }
     }
