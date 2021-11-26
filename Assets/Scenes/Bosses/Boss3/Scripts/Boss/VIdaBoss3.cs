@@ -7,6 +7,7 @@ public class VIdaBoss3 : MonoBehaviour
     public int vidaMaxima=40;
     public int vidaAtual;
     public GameObject Inimigo;
+    GameObject EndStage;
     [SerializeField]DamageShow DamageShow;
     void Start()
     {
@@ -36,6 +37,8 @@ public class VIdaBoss3 : MonoBehaviour
     void Saber_vida(){
         if(vidaAtual<=0){
             //Destroi o inimigo especificado logo acima
+            EndStage=GameObject.Find("EndStage");
+            EndStage.GetComponent<Fim_da_fase>().Finish();
             Destroy(Inimigo);
         }
     }

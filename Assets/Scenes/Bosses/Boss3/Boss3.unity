@@ -4389,7 +4389,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ConfineMode: 0
   m_BoundingVolume: {fileID: 0}
-  m_BoundingShape2D: {fileID: 351231896}
+  m_BoundingShape2D: {fileID: 0}
   m_ConfineScreenEdges: 1
   m_Damping: 0
 --- !u!114 &1083803043
@@ -4833,7 +4833,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1214422732}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0034484863, y: 4.2965546, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2039446233}
@@ -6006,6 +6006,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 6363361750654712527, guid: eaa0e5d395df3f64a80ff277cae744b4,
     type: 3}
   Firepoint: {fileID: 989791808}
+  player: {fileID: 0}
 --- !u!61 &1767695365
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6340,7 +6341,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 8cb7085c2de8c07448639cfac0ab6267, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 7b58fbed4a84de74f9e316ebc4e1fe0f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
