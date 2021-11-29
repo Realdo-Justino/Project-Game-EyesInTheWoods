@@ -38,4 +38,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cutscenes/Start/Begining.unity
     guid: f2716486efe2b5e4da1ae95385dbb213
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Final/End.unity
+    guid: 5eb57901c175a5c46a2738949375a89b
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase3/Fase03.unity
+    guid: c87fe3e527654cc41acc82ec3e1ee6cd
   m_configObjects: {}
