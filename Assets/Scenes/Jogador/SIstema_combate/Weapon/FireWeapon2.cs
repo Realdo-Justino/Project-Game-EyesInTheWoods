@@ -29,14 +29,14 @@ public class FireWeapon2 : MonoBehaviour
     public void Fire(){
         StartCoroutine(ExampleCoroutine());
         municao=0;
-        anim.SetBool("Atirando",true);
+        anim.SetBool("AtirandoE",true);
         //Inicia trajetoria da bala em relação ao personagem principal
         Instantiate(bulletPrefab,Firepoint.position,Firepoint.rotation);
     }
     IEnumerator ExampleCoroutine()
     {
         yield return new WaitForSeconds(1);
-        anim.SetBool("Atirando",false);
+        anim.SetBool("AtirandoE",false);
     }
     IEnumerator Reloading()
     {

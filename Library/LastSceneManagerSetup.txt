@@ -1,11 +1,11 @@
 sceneSetups:
 - path: Assets/Scenes/Mapas/Mapa_Teste.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/Mapas/Mapa_Teste_2.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Mapas/Mapa_Teste_2.unity
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Bosses/Boss1/SampleScene.unity
   isLoaded: 0
