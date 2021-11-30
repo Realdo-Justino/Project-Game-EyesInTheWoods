@@ -124,6 +124,7 @@
      <Compile Include="Assets\Scenes\Jogador\Scripts\FlikerPlayer.cs" />
      <Compile Include="Assets\Scenes\Jogador\Scripts\Frozen.cs" />
      <Compile Include="Assets\Scenes\Jogador\Scripts\Grounded.cs" />
+     <Compile Include="Assets\Scenes\Jogador\Scripts\Invencible.cs" />
      <Compile Include="Assets\Scenes\Jogador\Scripts\Movimentacao.cs" />
      <Compile Include="Assets\Scenes\Jogador\Scripts\TrabapacaVida.cs" />
      <Compile Include="Assets\Scenes\Jogador\Scripts\Vida_personagem_principal.cs" />

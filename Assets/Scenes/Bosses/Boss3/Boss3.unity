@@ -4389,7 +4389,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ConfineMode: 0
   m_BoundingVolume: {fileID: 0}
-  m_BoundingShape2D: {fileID: 0}
+  m_BoundingShape2D: {fileID: 351231896}
   m_ConfineScreenEdges: 1
   m_Damping: 0
 --- !u!114 &1083803043
@@ -4833,7 +4833,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1214422732}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.0034637451, y: 4.297516, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2039446233}
@@ -5454,6 +5454,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   WActivated: 0
+--- !u!114 &1500599966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1500599960}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a9a1645bf8e9f439b0f695d87c4d45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1568697977
 GameObject:
   m_ObjectHideFlags: 0
@@ -5775,7 +5787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da005c317c6e74c4facacaf4520e00f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cena: Boss1
+  cena: End
 --- !u!61 &1609179132
 BoxCollider2D:
   m_ObjectHideFlags: 0

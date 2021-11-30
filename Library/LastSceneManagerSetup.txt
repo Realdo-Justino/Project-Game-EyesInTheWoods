@@ -16,8 +16,8 @@ sceneSetups:
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Bosses/Boss2/Scenes/Mapa de Luta.unity
-  isLoaded: 0
-  isActive: 0
+  isLoaded: 1
+  isActive: 1
   isSubScene: 0
 - path: Assets/Scenes/Cutscenes/CutsceneBossCabriola/CutsceneBoss.unity
   isLoaded: 0
@@ -28,8 +28,8 @@ sceneSetups:
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Fases/Fase2/Fase02.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Bosses/Boss3/Boss3.unity
   isLoaded: 0

@@ -17,6 +17,7 @@ public class Vida_personagem_principal : MonoBehaviour
     public Rigidbody2D rig;
     //public float conta;
     public float lado;
+    public bool Cheat;
     FlikerPlayer FlikerPlayer;
 
     void Start()
@@ -25,6 +26,7 @@ public class Vida_personagem_principal : MonoBehaviour
         FlikerPlayer=GetComponent<FlikerPlayer>();
         vidaAtual=vidaMaxima;
         contador=Time.deltaTime;
+        Cheat = true;
         //rig=GetComponent<Rigidbody2D>();
     }
 
@@ -38,7 +40,7 @@ public class Vida_personagem_principal : MonoBehaviour
     }
     //Criação de frames de invencibilidade do personagem
     public void receberDano(int dano){
-        if(contador>300){
+        if((contador>300)&&(Cheat)){
             vidaAtual-=dano;
             FlikerPlayer.i=true;
             ricochete();

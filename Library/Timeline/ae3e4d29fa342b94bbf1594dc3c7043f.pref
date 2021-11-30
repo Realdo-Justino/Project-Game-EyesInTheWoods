@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeInFrames: 1
-  timeAreaShownRange: {x: 19.087748, y: 71.057594}
+  timeAreaShownRange: {x: 19.04291, y: 71.10246}
   showAudioWaveform: 1
   trackScale: 1
   playRangeEnabled: 0
