@@ -56,6 +56,7 @@
             * Programmed Playables
             * Programmed Enemys
             * Programmed Bosses
+            * Programmed UIElements
             <br>
             <br>
 
@@ -70,7 +71,7 @@
             * Desinged Maps
             * Desinged Enemys
             * Desinged Bosses
-            * Composed all tracks 
+            * Composed all original tracks 
             <br>
             <br>
 

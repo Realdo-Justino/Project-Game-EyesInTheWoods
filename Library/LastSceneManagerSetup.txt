@@ -8,8 +8,8 @@ sceneSetups:
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Bosses/Boss1/SampleScene.unity
-  isLoaded: 0
-  isActive: 0
+  isLoaded: 1
+  isActive: 1
   isSubScene: 0
 - path: Assets/Scenes/Mapas/Mapa_Teste_Inimigo.unity
   isLoaded: 0
@@ -48,6 +48,6 @@ sceneSetups:
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Fases/Fase3/Fase03.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
